@@ -17,30 +17,25 @@ Tech Blog : <a href="https://velog.io/@sjsrkdgks">myBlog</a>
 
 <hr />
 
-### Skills
+### Skills / 🌱 I’m currently learning ...
 
-Front-End
-- JavaScript
-- Vue [learning]
-- React [learning]
-
-Back-End
-- Java
-- Spring Framework
-
-DataBase
-- Oracle
-- MySQL
-- PostgreSQL
-
-Data
-- SQL
-
-Tools
-- VSCode
-- Eclipse
-- DBeaver
-- Notion
+<img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />&nbsp;
+<img src="https://img.shields.io/badge/JQuery-20232a.svg?style=for-the-badge&logo=JQuery&logoColor=0769AD" />&nbsp;
+<img src="https://img.shields.io/badge/Vue-20232a.svg?style=for-the-badge&logo=Vue.js&logoColor=4FC08D" />&nbsp;
+<img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br /><br />
+<img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=Java&logoColor=F7DF1E" />&nbsp;
+<img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=Spring&logoColor=6DB33F" />&nbsp;
+<br /><br />
+<img src="https://img.shields.io/badge/Oracle-20232a.svg?style=for-the-badge&logo=Oracle&logoColor=F80000" />&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-20232a.svg?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=MySQL&logoColor=4479A1" />&nbsp;
+<img src="https://img.shields.io/badge/SQL-20232a.svg?style=for-the-badge&logo=SQL&logoColor=F7DF1E" />&nbsp;
+<br /><br />
+<img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />&nbsp;
+<img src="https://img.shields.io/badge/eclipse-20232a.svg?style=for-the-badge&logo=eclipseide&logoColor=#007ACC" />&nbsp;
+<img src="https://img.shields.io/badge/dbeaver-20232a.svg?style=for-the-badge&logo=dbeaver&logoColor=F3F5F5" />&nbsp;
+<img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=F3F5F5" />&nbsp;
 
 <!--
 **soobolee/soobolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,7 +43,6 @@ Tools
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
