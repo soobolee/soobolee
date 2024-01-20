@@ -3,7 +3,7 @@
 
 Hi, i'm 이수보 [Lee SooBo]<br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=7DF729&random=false&width=435&lines=HelloWorld)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=7DF729&random=false&width=435&lines=Welcome&nbsp;My&nbsp;Github)](https://git.io/typing-svg)
 
 I want experienced with a wide range of Frontend technologies,<br /> specialized primarily in JavaScript.
 <hr />
