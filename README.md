@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=180&section=header&text=Hi&nbsp;yo~🤘&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=180&section=header&text=💻🔥🤘&fontSize=40" />
 
 Hi, i'm 이수보 [Lee SooBo]<br />
 
