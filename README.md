@@ -21,14 +21,14 @@ Tech Blog : <a href="https://velog.io/@sjsrkdgks">myBlog</a>
 - Front-End<br /><br />
 <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />&nbsp;
 <img src="https://img.shields.io/badge/JQuery-20232a.svg?style=for-the-badge&logo=JQuery&logoColor=0769AD" />&nbsp;
-/ Learning
+Learning : 
 <img src="https://img.shields.io/badge/Vue-20232a.svg?style=for-the-badge&logo=Vue.js&logoColor=4FC08D" />&nbsp;
 <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 
 - Back-End<br /><br />
 <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=Java&logoColor=F7DF1E" />&nbsp;
 <img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=Spring&logoColor=6DB33F" />&nbsp;
-/ Learning
+Learning : 
 <img src="https://img.shields.io/badge/Node-20232a.svg?style=for-the-badge&logo=Node.js&logoColor=6DB33F" />&nbsp;
 
 - DataBase<br />   
