@@ -9,7 +9,7 @@
 
 <br />
 
-[<img src="https://img.shields.io/badge/학습 기록-20232a.svg?style=for-the-badge&logo=Notion&logoColor=F3F5F5" />]([https](https://velog.io/@sjsrkdgks))
+[<img src="https://img.shields.io/badge/학습 기록-20232a.svg?style=for-the-badge&logo=Notion&logoColor=F3F5F5" />](https://forest-cloche-c20.notion.site/143df8137c5880a1a9b0cc93e2bb6e10)
 [<img src="https://img.shields.io/badge/블로그-20232a.svg?style=for-the-badge&logo=Velog&logoColor=#20C997" />](https://velog.io/@sjsrkdgks)
 
 <br />
