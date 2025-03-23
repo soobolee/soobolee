@@ -5,11 +5,11 @@
 다양한 고객이 있는 금융 도메인에서 일하며 실제 서비스 개발에는 다양한 예외에 대응해야 하는 것을 깨달았으며,<br />
 실제 발생할 수 있는 예외를 조사하고 예측하지 못했던 케이스를 막는 것에 뿌듯함을 느낍니다.<br />
 
-고객 별로 화면에 진입 시 발생할 수 있는 예외를 조사해 팀원들과 공유하며 매주 미처리 된 예외로 발생한 민원을 줄인 경험이 있습니다.
+고객 별로 화면에 진입 시 발생할 수 있는 예외를 조사해 팀원들과 공유하며 발견하지 못했던 예외들을 찾아 대응한 경험이 있습니다.
 
 <br />
 
-[<img src="https://img.shields.io/badge/학습 기록-20232a.svg?style=for-the-badge&logo=Notion&logoColor=F3F5F5" />](https://forest-cloche-c20.notion.site/143df8137c5880a1a9b0cc93e2bb6e10)
+[<img src="https://img.shields.io/badge/학습 기록-20232a.svg?style=for-the-badge&logo=Notion&logoColor=F3F5F5" />](https://forest-cloche-c20.notion.site/181df8137c58812ca86dde83983f268a)
 [<img src="https://img.shields.io/badge/블로그-20232a.svg?style=for-the-badge&logo=Velog&logoColor=#20C997" />](https://velog.io/@sjsrkdgks)
 
 <br />
