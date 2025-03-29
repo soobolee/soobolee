@@ -16,6 +16,7 @@
 
 ## 📚 Repository
 ### [Auto Page](https://github.com/soobolee/auto-page)
+[시연 영상](https://www.youtube.com/watch?v=OHQtxUwDZ5Q) | [다운로드 페이지](https://auto-page.site/)
 > 개인 프로젝트
 >
 > Auto Page는 반복적인 작업을 줄일 수 있는 매크로 데스트탑 앱입니다.<br />
