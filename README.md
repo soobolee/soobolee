@@ -1,10 +1,11 @@
+### 👍 Learning, Building, Improving
 ## 🧑🏼‍💻 Info
 [<img src="https://img.shields.io/badge/학습 기록-20232a.svg?style=for-the-badge&logo=Notion&logoColor=F3F5F5" />](https://forest-cloche-c20.notion.site/181df8137c58812ca86dde83983f268a)
 [<img src="https://img.shields.io/badge/블로그-20232a.svg?style=for-the-badge&logo=Velog&logoColor=#20C997" />](https://velog.io/@sjsrkdgks)
 
 안녕하세요 이수보 입니다.<br />
 금융 SI에서 풀스택 개발자로 일하며 웹과 모바일 환경에서 다양한 사용자 화면을 개발해 왔습니다.<br />
-현재는 새로운 도전을 하고 싶어 현재는 공부에 전념하고 있습니다.<br />
+현재는 새로운 도전을 하고 싶어 공부에 전념하고 있습니다.<br />
 
 다양한 고객이 있는 금융 도메인에서 일하며 실제 서비스 개발에는 다양한 예외에 대응해야 하는 것을 깨달았으며,<br />
 실제 발생할 수 있는 예외를 조사하고 예측하지 못했던 케이스를 막는 것에 뿌듯함을 느낍니다.<br />
