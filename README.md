@@ -1,7 +1,8 @@
-### 👍 Learning, Building, Improving
-## 🧑🏼‍💻 Info
+## 👍 Learning, Building, Improving
 [<img src="https://img.shields.io/badge/학습 기록-20232a.svg?style=for-the-badge&logo=Notion&logoColor=F3F5F5" />](https://forest-cloche-c20.notion.site/181df8137c58812ca86dde83983f268a)
 [<img src="https://img.shields.io/badge/블로그-20232a.svg?style=for-the-badge&logo=Velog&logoColor=#20C997" />](https://velog.io/@sjsrkdgks)
+
+## 🧑🏼‍💻 Info
 
 안녕하세요 이수보 입니다.<br />
 금융 SI에서 풀스택 개발자로 일하며 웹과 모바일 환경에서 다양한 사용자 화면을 개발해 왔습니다.<br />
