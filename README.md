@@ -26,6 +26,7 @@
 
 
 ### 팀 프로젝트 [UrLink](https://github.com/ECMA-393/UrLink-Extension)
+[UrLink 익스텐션 다운로드](https://chromewebstore.google.com/detail/urlink/ahfnojpakpdiddbnafbmjngbifalkaeh?hl=ko)
 >
 > UrLink는 손쉽게 필요한 북마크를 찾는 크롬 익스텐션입니다.<br />
 > 사용자가 검색한 키워드를 기반으로 북마크 URL을 크롤링으로 탐색합니다.<br />
