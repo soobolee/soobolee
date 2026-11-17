@@ -14,7 +14,7 @@
 고객 별로 화면에 진입 시 발생할 수 있는 예외를 조사해 팀원들과 공유하며 발견하지 못했던 예외들을 찾아 대응한 경험이 있습니다.-->
 
 <br />
-
+<!--
 ## 📚 Repository
 ### 개인 프로젝트 [Auto Page](https://github.com/soobolee/auto-page)
 [시연 영상](https://www.youtube.com/watch?v=OHQtxUwDZ5Q) | [다운로드 페이지](https://auto-page.site/)
@@ -59,7 +59,8 @@
   </tr>
  </table>
 </div>
- 
+-->
+
 <!--
 **soobolee/soobolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
